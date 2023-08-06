@@ -1,8 +1,6 @@
 
 # Tic-Tac-Toe Game
 
-![Game Screenshot](tic_tac_toe_screenshot.png)
-
 ## Overview
 
 This repository contains a 2-player Tic-Tac-Toe game implemented using JavaFX and Java. The game provides a classic and interactive gaming experience, allowing two players to compete against each other on a 3x3 grid to achieve victory.
